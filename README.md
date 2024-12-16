@@ -32,7 +32,7 @@ Here are the tools I rely on to create seamless e-commerce experiences and autom
 
 I'm always open to collaborating on exciting projects or discussing Shopify innovations. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxencetarnaud/)
+[![LinkedIn](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif)](https://www.linkedin.com/in/maxencetarnaud/)
 
 [![Malt](https://img.shields.io/badge/Malt-FF6347?style=for-the-badge&logo=malt&logoColor=white)]([https://www.malt.fr/](https://www.malt.fr/profile/maxencetarnaud))
 
