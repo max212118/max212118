@@ -1,6 +1,6 @@
 # 👋 I'm Maxence, a freelance Shopify Consultant
 
-Welcome to my GitHub profile! Here, you'll find a collection of my projects, tools, and contributions related to e-commerce, automation, and custom Shopify solutions.
+Welcome to my GitHub profile! Here, you'll find a collection of projects, some tools related to e-commerce, automation, and custom Shopify solutions.
 
 ---
 
