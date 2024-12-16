@@ -35,7 +35,7 @@ I'm always open to collaborating on exciting projects or discussing Shopify inno
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxencetarnaud/)
 
-[![Malt](https://img.shields.io/badge/Malt-FF6347?style=for-the-badge&logo=malt&logoColor=white)]([https://www.malt.fr/](https://www.malt.fr/profile/maxencetarnaud))
+[![Malt](https://img.shields.io/badge/Malt-FF6347?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/maxencetarnaud)
 
 Looking forward to connecting with like-minded professionals and building next-level e-commerce experiences together! 🚀
 
