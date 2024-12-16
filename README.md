@@ -8,11 +8,12 @@ Welcome to my GitHub profile! Here, you'll find a collection of my projects, too
 
 From my early days to where I am now, here’s a glimpse of the technologies that have shaped my journey:
 
-- **Ruby on Rails (RoR)**: Building robust backends for scalable applications.
-- **Liquid**: Crafting dynamic templates and custom Shopify themes.
-- **CSS**: Styling beautiful and responsive user interfaces.
-- **JavaScript**: Adding interactivity and custom logic to web experiences.
-- **HTML**: The foundation of all my web development projects.
+- ** C **: 42 main journey.
+- **Ruby on Rails (RoR)**: Le Wagon favorite stack.
+- **Liquid**: Custom Shopify themes.
+- **CSS**
+- **JavaScript**
+- **HTML**
 
 ⚙️ Always looking to learn new languages and frameworks that complement my Shopify expertise.
 
@@ -24,7 +25,7 @@ Here are the tools I rely on to create seamless e-commerce experiences and autom
 
 - **Shopify**: My go-to platform for creating, managing, and optimizing e-commerce stores.
 - **Google Drive & Google Apps Script**: Automating repetitive tasks and managing data with custom scripts.
-- **Zapier**: Connecting tools and services to streamline processes and increase efficiency.
+- **Zapier**
 
 ---
 
