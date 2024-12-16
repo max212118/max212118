@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here, you'll find a collection of my projects, too
 
 From my early days to where I am now, here’s a glimpse of the technologies that have shaped my journey:
 
-- ** C **: 42 main journey.
+- **C**: 42 main journey.
 - **Ruby on Rails (RoR)**: Le Wagon favorite stack.
 - **Liquid**: Custom Shopify themes.
 - **CSS**
